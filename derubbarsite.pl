@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# Blaster.pl Coded By Killer@Root
-# Killer@Root - Killer@Root - familiahackingteam.blogspot.com.br
+# derruba.pl jvz107
+# jvz107 - jvz107-
 #################################
 #
 # @@@ @@@@@@@@@@@ @@@@@ @@@@@@@@@@ @@@ @@@@@@@
